@@ -1,5 +1,5 @@
 const getName = (obj) => {
-  return obj['name'];
+  return obj.name;
 };
 
 export default getName;
