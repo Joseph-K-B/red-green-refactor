@@ -1,6 +1,5 @@
 const getName = (obj) => {
-  const output = obj['name'];
-  return output;
+  return obj['name'];
 };
 
 export default getName;
